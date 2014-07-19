@@ -14,4 +14,8 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+<<<<<<< HEAD
 .worksheet
+=======
+.worksheet
+>>>>>>> 6631d74b0e91bcb7e8dd48acb7fd37ea63d8b815
