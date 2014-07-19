@@ -23,7 +23,9 @@ If you just want the executable, you can [download it here.](https://github.com/
 
 If you want the source (Be warned, it is not pretty), you can clone the project via: 
 
-    git clone 
+    git clone https://github.com/chriskiehl/DoNotStarveBackup.git
+
+
 
 
 ###First Run: 
